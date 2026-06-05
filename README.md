@@ -144,10 +144,6 @@ This script performs feature engineering and runs analytical queries on the clea
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- **PostgreSQL** — Core database engine
-- **SQL** — DDL, DML, window functions, CTEs, regex, date functions
-- **pgAdmin / DBeaver** — Query execution and schema management
-
 ---
 
 ## 👤 Author
